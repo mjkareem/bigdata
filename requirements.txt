@@ -1,2 +1,15 @@
-streamlit
-requests
+#streamlit
+#streamlit_option_menu
+#requests
+#pandas
+#folium
+#pydeck
+#streamlit-folium
+#matplotlib
+#plotly
+#deta
+
+deta==1.1.0
+streamlit==1.10.0
+streamlit_option_menu==0.3.2
+plotly==4.14.3
