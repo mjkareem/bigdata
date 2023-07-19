@@ -8,7 +8,7 @@ import database as db
 finalPrice = ["Cold Price", "Warm Price", "Other Price (eg: Insurance)"]
 mainFacilities = ["Parking", "Balcony", "Elevator", "Garden", "Cellar"]
 currency = "EUR"
-page_title = "House Prices in Berlin Logger"
+page_title = "House Prices in Berlin Reviewer"
 page_icon = ":money_with_wings:"
 layout = "centered"
 # --------------------------------------
