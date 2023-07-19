@@ -13,4 +13,5 @@ deta==1.1.0
 streamlit==1.10.0
 streamlit_option_menu==0.3.2
 plotly==4.14.3
-altair
+altair==4.1.0
+vegalite==4.5.0
